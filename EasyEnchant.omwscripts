@@ -1,0 +1,2 @@
+GLOBAL:scripts/EasyEnchant/global.lua
+PLAYER:scripts/EasyEnchant/player.lua
